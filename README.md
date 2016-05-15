@@ -7,4 +7,5 @@ I attached my resume and LinkedIn URL to this repository.
 Look forward to hearing from you. 
 
 Best regards,
+
 Gustaf Tenfält
